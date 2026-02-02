@@ -1077,6 +1077,8 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+ <img width="341" height="101" alt="Screenshot from 2026-02-02 13-24-30" src="https://github.com/user-attachments/assets/60c802ad-655f-4e83-9e1f-57b13e157a35" />
+
 
  
  ./funcex.sh 1 2
