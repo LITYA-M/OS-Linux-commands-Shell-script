@@ -8,7 +8,8 @@ To practice Linux Commands and Shell Scripting
 
 # DESIGN STEPS:
 
-### Step 1:
+### Step 1:user@user:~$ cat > nc.awk
+
 
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
@@ -1026,7 +1027,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+<img width="648" height="113" alt="Screenshot from 2026-02-02 09-57-06" src="https://github.com/user-attachments/assets/d4758948-66de-4d27-a665-40273f6c2b0d" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1040,6 +1042,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="648" height="113" alt="Screenshot from 2026-02-02 10-02-24" src="https://github.com/user-attachments/assets/38773ea8-e47e-40ea-976b-670d25694d85" />
 
 
  cat exread1.sh
